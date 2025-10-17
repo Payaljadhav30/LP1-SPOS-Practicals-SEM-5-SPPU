@@ -44,3 +44,31 @@ java Pass1
 ```
 
 Works for simple practicals. If this does not work, use Method 2 below.
+
+1. Stay in the main folder: Ex.
+```bash
+cd C:\Users\user\OneDrive\Desktop\SPOS_PRACT
+
+```
+2. Compile the Java program by specifying the folder:
+```bash
+javac pract8\BestFit.java
+```
+
+3. Run the program using the folder as a package:
+```bash
+java pract8.BestFit
+```
+
+Recommended if your practicals are inside subfolders. Works for all Pract1 → Pract10.
+
+
+🔹 Quick Steps to Run Practicals
+
+1. Clone the repo:
+git clone https://github.com/Payaljadhav30/LP1-SPOS-Practicals-SEM-5-SPPU.git
+
+2. Navigate to Folder
+cd pract1
+
+3. Compile and Run by any suitable method from given 2 methods
