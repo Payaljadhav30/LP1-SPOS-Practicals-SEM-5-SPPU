@@ -32,3 +32,15 @@ You can run the programs in **two ways**:
 1. Navigate to the folder of the practical you want to run:
 ```bash
 cd pract1
+```
+2. Compile the Java program:
+```bash
+javac Pass1.java
+```
+
+3. Run the program:
+```bash
+java Pass1
+```
+
+Works for simple practicals. If this does not work, use Method 2 below.
