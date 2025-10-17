@@ -1,0 +1,10 @@
+	INCR	&X	&Y	&REG1=AREG
+	MOVER	#2	#0
+	ADD	#2	#1
+	MOVEM	#2	#0
+	MEND
+	DECR	&A	&B	&REG2=BREG
+	MOVER	#5	#3
+	SUB	#5	#4
+	MOVEM	#5	#3
+	MEND
